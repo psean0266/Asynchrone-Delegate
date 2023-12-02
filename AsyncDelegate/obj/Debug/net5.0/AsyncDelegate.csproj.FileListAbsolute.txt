@@ -1,0 +1,16 @@
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\bin\Debug\net5.0\AsyncDelegate.exe
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\bin\Debug\net5.0\AsyncDelegate.deps.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\bin\Debug\net5.0\AsyncDelegate.runtimeconfig.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\bin\Debug\net5.0\AsyncDelegate.runtimeconfig.dev.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\bin\Debug\net5.0\AsyncDelegate.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\bin\Debug\net5.0\AsyncDelegate.pdb
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\obj\Debug\net5.0\AsyncDelegate.csproj.AssemblyReference.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\obj\Debug\net5.0\AsyncDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\obj\Debug\net5.0\AsyncDelegate.AssemblyInfoInputs.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\obj\Debug\net5.0\AsyncDelegate.AssemblyInfo.cs
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\obj\Debug\net5.0\AsyncDelegate.csproj.CoreCompileInputs.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\obj\Debug\net5.0\AsyncDelegate.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\obj\Debug\net5.0\refint\AsyncDelegate.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\obj\Debug\net5.0\AsyncDelegate.pdb
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\obj\Debug\net5.0\AsyncDelegate.genruntimeconfig.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\AsyncDelegate\AsyncDelegate\obj\Debug\net5.0\ref\AsyncDelegate.dll
