@@ -15,6 +15,7 @@ namespace AsyncDelegate
             string url = "https://codeavecjonathan.com/res/bateau.jpg";
             //  webclient.DownloadFile(url,"bateau.jpg");
 
+            downloading = true;
             webclient.DownloadFileCompleted += Webclient_DownloadFileCompleted;
             webclient.DownloadFileAsync(new Uri(url), "bateau.jpg");
 
